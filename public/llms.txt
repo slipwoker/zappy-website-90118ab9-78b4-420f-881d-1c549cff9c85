@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://vered-home-90118ab9.zappy5.app
+https://example.com
 גלו את הקסם שבעיצוב הבית עם VERED HOME. מבחר מפות, אגרטלים ומערכות אוכל מעוצבות לשבת שהופכות כל ארוחה לחוויה בלתי נשכחת. התחילו לעצב עכשיו!
 
 ### הסיפור שלנו
-https://vered-home-90118ab9.zappy5.app/our-story
+https://example.com/our-story
 הסיפור של VERED HOME נולד מאהבה לאירוח ולפרטים הקטנים. הצטרפו למסע שלנו בעולם האגרטלים, המפות והסטיילינג הביתי, וגלו איך נוצרים רגעים של יופי אמיתי.
 
 ### עיצוב שולחן
-https://vered-home-90118ab9.zappy5.app/table-styling
+https://example.com/table-styling
 שדרגו את האירוח עם רעיונות לעיצוב שולחן מבית VERED HOME. משלבו מפות, אגרטלים ומערכות אוכל מעוצבות לשבת ליצירת אווירה חגיגית שתקסים את האורחים. היכנסו להתנסות!
 
 ### גלריה
-https://vered-home-90118ab9.zappy5.app/gallery
+https://example.com/gallery
 גלריה מעוררת השראה מבית VERED HOME: שולחנות חג מהממים הכוללים מפות יוקרתיות, אגרטלים פורחים ומערכות אוכל מעוצבות לשבת. בואו לשאוב רעיונות לאירוח המושלם שלכם.
 
 ### צור קשר
-https://vered-home-90118ab9.zappy5.app/contact
+https://example.com/contact
 רוצים להפוך כל ארוחה לחוויה מעוצבת? צרו קשר עם VERED HOME עוד היום לייעוץ אישי על מפות, אגרטלים ומערכות אוכל מעוצבות לשבת. אנחנו כאן כדי לעזור לכם לארח בסטייל.
 
 ### Products
-https://vered-home-90118ab9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - VERED HOME
 
 ### Cart
-https://vered-home-90118ab9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://vered-home-90118ab9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://vered-home-90118ab9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://vered-home-90118ab9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://vered-home-90118ab9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://vered-home-90118ab9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - VERED HOME
 
 ### Category
-https://vered-home-90118ab9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - VERED HOME
 
 ### תודה רבה - Vered Home
-https://vered-home-90118ab9.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אליך בהקדם. Vered Home - מפות, אגרטלים ומערכות אוכל מעוצבות לשבת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://vered-home-90118ab9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://vered-home-90118ab9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://vered-home-90118ab9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Home Decor & Tableware
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://vered-home-90118ab9.zappy5.app/sitemap.xml
-- Robots: https://vered-home-90118ab9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://vered-home-90118ab9.zappy5.app/llms-full.txt
-- Products (JSON): https://vered-home-90118ab9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://vered-home-90118ab9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
