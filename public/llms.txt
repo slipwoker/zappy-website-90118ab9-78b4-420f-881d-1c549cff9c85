@@ -82,8 +82,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 1**
 
-### מערכות אוכל
-https://example.com/product/markvt-avkl-kvbzfy
+### מערכות אוכל (Copy)
+https://example.com/product/markvt-avkl-copy-cmiek4
 - Price: 739.00 ILS (sale, was 789.00 ILS)
 - Availability: In stock
 - Brand: Novel
