@@ -80,7 +80,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מערכות אוכל
+https://example.com/product/markvt-avkl-kvbzfy
+- Price: 739.00 ILS (sale, was 789.00 ILS)
+- Availability: In stock
+- Brand: Novel
+- Description: מערכות אוכל יוקרתיות בעיצובים ייחודיים, שנבחרו בקפידה כדי להפוך כל שולחן לחוויית אירוח מרשימה
+- Image: https://example.com/assets/product-1784129009276-rh9xis.webp
 
 ---
 

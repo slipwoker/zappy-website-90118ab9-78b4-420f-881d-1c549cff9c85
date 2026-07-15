@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T15:14:37.215Z",
+  "generated_at": "2026-07-15T15:37:47.900Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "9327a43f-05f3-40d7-b0d7-4ddeb2d20ded",
+      "slug": "markvt-avkl-kvbzfy",
+      "name": "מערכות אוכל",
+      "name_translations": {},
+      "description": "<p>מערכות אוכל יוקרתיות בעיצובים ייחודיים, שנבחרו בקפידה כדי להפוך כל שולחן לחוויית אירוח מרשימה</p>",
+      "short_description": "מערכות אוכל יוקרתיות בעיצובים ייחודיים, שנבחרו בקפידה כדי להפוך כל שולחן לחוויית אירוח מרשימה",
+      "sku": null,
+      "brand": "Novel",
+      "price": 739,
+      "base_price": 789,
+      "sale_price": 739,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1784129009276-rh9xis.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/markvt-avkl-kvbzfy",
+      "categories": [],
+      "updated_at": "2026-07-15T15:26:41.700Z"
+    }
+  ]
 }
