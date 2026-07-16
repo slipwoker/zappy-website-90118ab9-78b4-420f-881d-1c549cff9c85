@@ -861,7 +861,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "90118ab9-78b4-420f-881d-1c549cff9c85";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "90118ab9-78b4-420f-881d-1c549cff9c85";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <!-- Mobile buttons: MUST be direct children of .navbar (outside nav-container) -->
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
@@ -1376,12 +1376,12 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" data-zappy-content-align="center-mid-right">
   <img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A refined table setting on white linen with layered plates, candleholders, blush silk flowers, and antique brass accents, bathed in soft natural morning light, shot from above with shallow depth of field, elegant and warm." width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="שולחן מעוצב עם כלי אוכל, פמוטים ופרחי משי בגוונים עדינים" data-hero-background="true" data-element-type="image" data-element-id="img-1784127943114-z0sqypgg1" style="object-position: 50% 50%; display: block !important; object-fit: cover !important; margin: 0px !important; position: absolute !important; inset: 0px !important; width: 100% !important; height: 100% !important; z-index: 0 !important;" data-zappy-zoom="1" decoding="async" />
   
-  <div class="hero-fade-content">
+  <div class="hero-fade-content" data-zappy-align-target="true" style>
     <!-- Gold leaf brand mark -->
-    <div class="hero-brand-mark" aria-hidden="true">
+    <div class="hero-brand-mark" aria-hidden="true" data-zappy-abs-align="true">
       <svg data-no-icon-edit="true" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M20 4C18 8 14 12 10 16C14 18 18 22 20 28C22 22 26 18 30 16C26 12 22 8 20 4Z" stroke="#B8960C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
         <path d="M20 28C20 32 22 36 20 38C18 36 20 32 20 28Z" stroke="#B8960C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
@@ -1640,7 +1640,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     <div class="footer-grid">
       <!-- Company Info -->
       <div class="footer-col footer-brand-col">
-        <img src="/assets/vered-home-home-decor-tableware-logo.webp" alt="VERED HOME" class="logo" data-element-type="image" data-element-id="img-1784131980113-w4h6kp1bt" data-zappy-footer-image="true" decoding="async" width="35" height="35" />
+        <img src="/assets/vered-home-home-decor-tableware-logo.webp" alt="VERED HOME" class="logo" data-element-type="image" data-element-id="img-1784131980113-w4h6kp1bt" data-zappy-footer-image="true" style decoding="async" width="35" height="35" />
         <p class="footer-tagline">בוטיק עיצוב הבית והשולחן שלך – אוצרות עם נשמה, אווירה חמימה ונגיעות של השראה לכל עונה וחג.</p>
       </div>
 
@@ -1677,7 +1677,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
       <div class="footer-col footer-hours-col">
         <h4 style="color: rgb(255, 255, 255) !important;">שעות פעילות</h4>
         <ul class="footer-hours"><li><a href="/"><span class="hours-day">יום א’</span> <span class="hours-time" style="color: rgb(255, 255, 255) !important;">סגור</span></a></li>
-<li><a href="/"><span class="hours-day">ימים א’–ו’</span> <span class="hours-time" style="color: rgb(255, 255, 255) !important;">09:00–17:00</span></a></li>
+<li><a href="/" style><span class="hours-day">ימים א’–ו’</span> <span class="hours-time" style="color: rgb(255, 255, 255) !important;">09:00–17:00</span></a></li>
 <li><a href="/"><span class="hours-day">שבת</span> <span class="hours-time" style="color: rgb(255, 255, 255) !important;">סגור</span></a></li></ul>
       </div>
 
