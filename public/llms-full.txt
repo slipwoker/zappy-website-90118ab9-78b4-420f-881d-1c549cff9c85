@@ -6086,7 +6086,7 @@ Description: תודה על פנייתך. ההודעה התקבלה בהצלחה 
 ## Product Catalog
 
 ### מערכות אוכל (Copy)
-URL: https://example.com/product/markvt-avkl-copy-cmiek4
+URL: https://example.com/product/markvt-avkl-copy-zmwmly
 Price: 739.00 ILS (sale, was 789.00 ILS)
 Availability: In stock
 Brand: Novel
