@@ -2,15 +2,15 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>VERED HOME</title>
-    <link>https://example.com</link>
+    <link>https://vered-home.zappy5.app</link>
     <description>Product feed for VERED HOME</description>
-    <lastBuildDate>Mon, 20 Jul 2026 09:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:20:06 GMT</lastBuildDate>
     <item>
       <g:id>71e9e1cc-1bfc-49f0-adee-0beb23db03cc</g:id>
       <g:title>מערכות אוכל (Copy)</g:title>
       <g:description>מערכות אוכל יוקרתיות בעיצובים ייחודיים, שנבחרו בקפידה כדי להפוך כל שולחן לחוויית אירוח מרשימה</g:description>
-      <g:link>https://example.com/product/markvt-avkl-copy-zmwmly</g:link>
-      <g:image_link>https://example.com/assets/product-1784129009276-rh9xis.webp</g:image_link>
+      <g:link>https://vered-home.zappy5.app/product/markvt-avkl-copy-zmwmly</g:link>
+      <g:image_link>https://vered-home.zappy5.app/assets/product-1784129009276-rh9xis.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>789.00 ILS</g:price>
       <g:sale_price>739.00 ILS</g:sale_price>

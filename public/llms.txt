@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://vered-home.zappy5.app
 גלו את הקסם שבעיצוב הבית עם VERED HOME. מבחר מפות, אגרטלים ומערכות אוכל מעוצבות לשבת שהופכות כל ארוחה לחוויה בלתי נשכחת. התחילו לעצב עכשיו!
 
 ### הסיפור שלי
-https://example.com/my-story
+https://vered-home.zappy5.app/my-story
 הסיפור של VERED HOME נולד מאהבה לאירוח ולפרטים הקטנים. הצטרפו למסע שלנו בעולם האגרטלים, המפות והסטיילינג הביתי, וגלו איך נוצרים רגעים של יופי אמיתי.
 
 ### עיצוב שולחן לכל רגע ורגע
-https://example.com/table-design-for-every-moment
+https://vered-home.zappy5.app/table-design-for-every-moment
 שדרגו את האירוח עם רעיונות לעיצוב שולחן מבית VERED HOME. משלבו מפות, אגרטלים ומערכות אוכל מעוצבות לשבת ליצירת אווירה חגיגית שתקסים את האורחים. היכנסו להתנסות!
 
 ### הגלריה שלנו
-https://example.com/our-gallery
+https://vered-home.zappy5.app/our-gallery
 גלריה מעוררת השראה מבית VERED HOME: שולחנות חג מהממים הכוללים מפות יוקרתיות, אגרטלים פורחים ומערכות אוכל מעוצבות לשבת. בואו לשאוב רעיונות לאירוח המושלם שלכם.
 
 ### צור קשר
-https://example.com/contact
+https://vered-home.zappy5.app/contact
 רוצים להפוך כל ארוחה לחוויה מעוצבת? צרו קשר עם VERED HOME עוד היום לייעוץ אישי על מפות, אגרטלים ומערכות אוכל מעוצבות לשבת. אנחנו כאן כדי לעזור לכם לארח בסטייל.
 
 ### Products
-https://example.com/products
+https://vered-home.zappy5.app/products
 המוצרים שלנו - VERED HOME
 
 ### Cart
-https://example.com/cart
+https://vered-home.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://vered-home.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://vered-home.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://vered-home.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://vered-home.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://vered-home.zappy5.app/product/:slug
 פרטי המוצר - VERED HOME
 
 ### Category
-https://example.com/category/:slug
+https://vered-home.zappy5.app/category/:slug
 מוצרים - VERED HOME
 
 ### תודה רבה - Vered Home
-https://example.com/thank-you
+https://vered-home.zappy5.app/thank-you
 תודה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אליך בהקדם. Vered Home - מפות, אגרטלים ומערכות אוכל מעוצבות לשבת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://vered-home.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://vered-home.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://vered-home.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,12 +83,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### מערכות אוכל (Copy)
-https://example.com/product/markvt-avkl-copy-zmwmly
+https://vered-home.zappy5.app/product/markvt-avkl-copy-zmwmly
 - Price: 739.00 ILS (sale, was 789.00 ILS)
 - Availability: In stock
 - Brand: Novel
 - Description: מערכות אוכל יוקרתיות בעיצובים ייחודיים, שנבחרו בקפידה כדי להפוך כל שולחן לחוויית אירוח מרשימה
-- Image: https://example.com/assets/product-1784129009276-rh9xis.webp
+- Image: https://vered-home.zappy5.app/assets/product-1784129009276-rh9xis.webp
 
 ---
 
@@ -110,8 +110,8 @@ Home Decor & Tableware
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://vered-home.zappy5.app/sitemap.xml
+- Robots: https://vered-home.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://vered-home.zappy5.app/llms-full.txt
+- Products (JSON): https://vered-home.zappy5.app/products.json
+- Products (Google Merchant RSS): https://vered-home.zappy5.app/product-feed.xml
